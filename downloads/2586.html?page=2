@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>WhisperDesktop1.8音频转文字软件双向-第2页-宁波猫的窝</title>
+<meta name="keywords" content="电脑软件" />
+<meta name="description" content="结果以文本格式输入。另外一个功能是允许从麦克风捕获和转录或翻译实时音频ggml-medium 语音模型（官方）：https://huggingface.co/datasets/ggerganov/wh..." />
+<link rel="shortcut icon" href="https://ningbocat.com/zb_users/theme/Tcbymt/style/img/favicon.png" type="image/x-icon" />
+<link rel="icon" href="https://ningbocat.com/zb_users/theme/Tcbymt/style/img/favicon.png" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="https://ningbocat.com/zb_users/theme/Tcbymt/style/style.css" media="all" />
+<!--[if IE 7]><link rel="stylesheet" href="https://ningbocat.com/zb_users/theme/Tcbymt/style/css/ie7.css" type="text/css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" href="https://ningbocat.com/zb_users/theme/Tcbymt/style/css/ie8.css" type="text/css" /><![endif]-->
+<!--[if lt IE 9]>
+    <script src="https://ningbocat.com/zb_users/theme/Tcbymt/script/respond.min.js"></script>
+<![endif]-->
+    <script src="https://ningbocat.com/zb_system/script/common.js" type="text/javascript"></script>
+    <script src="https://ningbocat.com/zb_system/script/c_html_js_add.php" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="https://ningbocat.com/zb_users/theme/Tcbymt/style/fancybox/fancybox.css" />
+<script type="text/javascript" src="https://ningbocat.com/zb_users/theme/Tcbymt/script/fancybox.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+$(".fancybox").fancybox();
+});
+</script>
+<link rel="stylesheet" rev="stylesheet" href="https://ningbocat.com/zb_users/plugin/dm_fy/dm_fy.css" type="text/css" media="all"/></head>
+<body class="single single-post postid-38 single-format-standard logged-in admin-bar no-customize-support">
+<div id="wrapper-innerIE6"></div>
+<div id="wrapper">
+<div id="wrapper-inner" data-bymts="theme-bymt mouse-title highlight">
+<div id="header" class="container">
+    <div id="header-inner">
+    <div id="logo">
+<h1><a title="宁波猫的窝" href="https://ningbocat.com/" rel="index">宁波猫的窝</a></h1>
+                <p class="logodesc">www.ningbocat.com</p>
+                </div>
+<div id="topblock">
+        <div id="slide_top" class="slideBox"><div class="bd">
+<ul>
+</ul></div><a class="prev" href="javascript:;"></a><a class="next" href="javascript:;"></a></div></div>
+    </div>
+    <div class="linea"></div>
+    <div id="mobile-nav">
+    <a href="#main-nav"><i class="icon-menu"></i> Menu</a>
+    </div>
+    <div id="main-nav">
+        <div id="nav-menu"><ul>
+        <li id="nvabar-item-index"><a href="https://ningbocat.com/">首页</a></li>
+
+<li id="navbar-page-829"><a href="https://ningbocat.com/829.html">站内搜索</a></li>
+
+<li id="nvabar-item-index"><a href="https://ningbocat.com/sitemap.html">所有文章</a></li>
+
+<li id="navbar-page-828"><a href="https://ningbocat.com/828.html">所有分类</a></li>
+
+<li id="navbar-item-RegLabel"><a href="https://ningbocat.com/?Tags">所有标签</a></li>
+
+<li id="navbar-tag-27"><a href="https://ningbocat.com/tags-27.html">原创文章</a></li>
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-32.html">星纪元ET</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-1.html">观致相关</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-30.html">奇瑞小蚂蚁</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-3.html">汽车经验</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-15.html">汽车知识</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-4.html">汽车用品</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-6.html">电脑软件</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-8.html">电脑经验</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-28.html">摄影摄像</a></li>
+
+<li id="navbar-tag-29"><a href="https://ningbocat.com/tags-29.html">多彩自然</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-13.html">网络安全</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-23.html">历史文化</a></li>
+
+<li id="navbar-tag-1"><a href="https://ningbocat.com/tags-14.html">百科知识</a></li>
+
+<li id="nvabar-item-index"><a href="/zb_system/login.php">登录后台</a></li>
+
+        </ul></div>             
+<div id="nav-search">
+            <form name="search" method="post" action="https://ningbocat.com/zb_system/cmd.php?act=search">
+                <input type="text" name="q" id="search-input" data-searchtips="搜点什么呢..." value="" autocomplete="off" x-webkit-speech x-webkit-grammar="builtin:translate" />
+                <ul id="search-cloud" data-cloudnum="2">
+                </ul>
+                <input type="submit" value="搜索" />
+            </form>
+        </div>
+            </div>
+</div>
+
+<div id="topbar" class="container">
+<div id="bulletin">
+<i class="icon-sound"></i> 
+当前位置 &raquo; 
+<a href="https://ningbocat.com/">首页</a>
+       >>  <a href="https://ningbocat.com/category-12.html" title="查看转贴:电脑相关中的全部文章">转贴:电脑相关</a> &raquo; <a href="https://ningbocat.com/post/2586.html">WhisperDesktop1.8音频转文字软件双向</a>
+</div>
+<div id="rss">
+    <ul>
+        <li><a href="https://ningbocat.com/feed.php" rel="external" target="_blank" class="icons-rss" title="RSS订阅"></a></li>
+        <li><a href="" rel="external" target="_blank" class="icons-qw" title="我的腾讯微博"></a></li>
+        <li><a href="https://weibo.com/ningbocat" rel="external" target="_blank" class="icons-wb" title="我的新浪微博"></a></li>
+    </ul>
+</div>
+</div><div id="content-wrap">
+                    <div id="content-main">
+                <div class="post-single"><div class="post-header">
+                <h2 class="post-title">WhisperDesktop1.8音频转文字软件双向</h2>
+            </div>
+            <div class="post-meta">
+            <ul class="resizer">
+                    <li id="f_s"><a href="javascript:;" title="缩小字体">小</a></li>
+                    <li id="f_m"><a href="javascript:;" title="默认字体">中</a></li>
+                    <li id="f_l"><a href="javascript:;" title="加大字体">大</a></li>
+                    <li id="f_c"><a href="javascript:;" title="关闭侧边栏"><i class="icon-stop"></i></a></li>
+                    <li id="f_o"><a href="javascript:;" title="打开侧边栏"><i class="icon-pause"></i></a></li>
+            </ul>
+                <span class="pauthor"><i class="icon-user-add"></i><a href="https://ningbocat.com/author-1.html" title="由NINGBOCAT发布" rel="author">NINGBOCAT</a></span>
+                <span class="ptime"><i class="icon-calendar"></i>2023年06月08日</span>
+                <span class="pcate"><i class="icon-category"></i>转贴:电脑相关</span>
+                <span class="pview"><i class="icon-pass"></i>23404人路过</span>                <span class="pcomm"><i class="icon-chat"></i><a href="https://ningbocat.com/post/2586.html#respond" rel="nofollow" title="《WhisperDesktop1.8音频转文字软件双向》上的评论">抢沙发</a></span>
+                           </div>
+                                <div class="post-content">
+                    <p></p><p><ignore_js_op style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"><br/></ignore_js_op></p><p><ignore_js_op style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"><a aid="2616300" href="https://ningbocat.com/zb_users/upload/2023/06/202306081686235018700755.png" zoomfile="https://attach.52pojie.cn/forum/202305/20/213708oukmcwdi0fg076bw.png" file="https://attach.52pojie.cn/forum/202305/20/213708oukmcwdi0fg076bw.png" class="zoom" width="1080" id="aimg_2616300" inpost="1" lazyloaded="true" _load="1" style="overflow-wrap: break-word; cursor: pointer; max-width: 100%; max-height: 1000px; width: auto; height: auto;" alt="210836r9lvbiv196oljlxl.png" title="210836r9lvbiv196oljlxl.png" rel="box" class="fancybox"/><img src="https://ningbocat.com/zb_users/upload/2023/06/202306081686235018700755.png" zoomfile="https://attach.52pojie.cn/forum/202305/20/213708oukmcwdi0fg076bw.png" file="https://attach.52pojie.cn/forum/202305/20/213708oukmcwdi0fg076bw.png" class="zoom" width="1080" id="aimg_2616300" inpost="1" lazyloaded="true" _load="1" style="overflow-wrap: break-word; cursor: pointer; max-width: 100%; max-height: 1000px; width: auto; height: auto;" alt="210836r9lvbiv196oljlxl.png" title="210836r9lvbiv196oljlxl.png"/></a></ignore_js_op><span style="color: #444444; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; background-color: #FFFFFF;"></span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="font-family:Roboto, Arial, sans-serif;overflow-wrap: break-word; color: #444444; background-color: #FFFFFF;"><span style="overflow-wrap: break-word; font-size: 19px;">结果以文本格式输入。</span></span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="font-family:Roboto, Arial, sans-serif;overflow-wrap: break-word; color: #444444; background-color: #FFFFFF;"><span style="overflow-wrap: break-word; font-size: 19px;"><br style="overflow-wrap: break-word;"/></span></span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="font-family:Roboto, Arial, sans-serif;overflow-wrap: break-word; color: #444444; background-color: #FFFFFF;"><span style="font-size:24px;overflow-wrap: break-word;">另外一个功能是允许从麦克风捕获和转录或翻译实时音频</span></span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><ignore_js_op style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"><a aid="2616302" href="https://ningbocat.com/zb_users/upload/2023/06/202306081686235073267503.png" zoomfile="https://attach.52pojie.cn/forum/202305/20/214025sses7dxnyxyaxare.png" file="https://attach.52pojie.cn/forum/202305/20/214025sses7dxnyxyaxare.png" class="zoom" width="855" id="aimg_2616302" inpost="1" lazyloaded="true" _load="1" style="overflow-wrap: break-word; cursor: pointer; max-width: 100%; max-height: 1000px; width: auto; height: auto;" alt="210836r9lvbiv196oljlxl.png" title="210836r9lvbiv196oljlxl.png" rel="box" class="fancybox"/><img src="https://ningbocat.com/zb_users/upload/2023/06/202306081686235073267503.png" zoomfile="https://attach.52pojie.cn/forum/202305/20/214025sses7dxnyxyaxare.png" file="https://attach.52pojie.cn/forum/202305/20/214025sses7dxnyxyaxare.png" class="zoom" width="855" id="aimg_2616302" inpost="1" lazyloaded="true" _load="1" style="overflow-wrap: break-word; cursor: pointer; max-width: 100%; max-height: 1000px; width: auto; height: auto;" alt="210836r9lvbiv196oljlxl.png" title="210836r9lvbiv196oljlxl.png"/></a></ignore_js_op><span style="color: #444444; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; background-color: #FFFFFF;"></span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="font-family:Roboto, Arial, sans-serif;overflow-wrap: break-word; color: #444444; background-color: #FFFFFF;"><span style="overflow-wrap: break-word; font-size: 19px;"><br style="overflow-wrap: break-word;"/></span></span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="font-family:Roboto, Arial, sans-serif;overflow-wrap: break-word; color: #444444; background-color: #FFFFFF;"><span style="overflow-wrap: break-word; font-size: 19px;"><br style="overflow-wrap: break-word;"/></span></span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="font-family:Roboto, Arial, sans-serif;overflow-wrap: break-word; color: #444444; background-color: #FFFFFF;"><span style="overflow-wrap: break-word; font-size: 19px;">ggml-medium 语音模型（官方）：</span></span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><a rel="nofollow noopener" href="https://huggingface.co/datasets/ggerganov/whisper.cpp/tree/main" target="_blank" style="overflow-wrap: break-word; color: rgb(51, 102, 153); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">https://huggingface.co/datasets/ggerganov/whisper.cpp/tree/main</a><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="overflow-wrap: break-word; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; background-color: #FFFFFF; color: #1F2328;"><span style="font-family:-apple-system, BlinkMacSystemFont, &amp;quot;;overflow-wrap: break-word;"><span style="overflow-wrap: break-word; font-size: 16px;">作者推荐</span></span></span><span style="color: #444444; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; background-color: #FFFFFF;">ggml-medium.bin</span><span style="overflow-wrap: break-word; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; background-color: #FFFFFF; color: #1F2328;"><span style="font-family:-apple-system, BlinkMacSystemFont, &amp;quot;;overflow-wrap: break-word;"><span style="overflow-wrap: break-word; font-size: 16px;">（大小为 1.42GB）</span></span></span><span style="font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;overflow-wrap: break-word; color: #444444; background-color: #FFFFFF;"><span style="color:#1f2328;overflow-wrap: break-word;"><span style="overflow-wrap: break-word; font-size: 16px;"><br style="overflow-wrap: break-word;"/>链接：<a rel="nofollow noopener" href="https://pan.baidu.com/s/1xcemqdg_H5OWMlDx4hzcuQ?pwd=fk2d" target="_blank" style="overflow-wrap: break-word; color: rgb(51, 102, 153);">https://pan.baidu.com/s/1xcemqdg_H5OWMlDx4hzcuQ?pwd=fk2d</a><br style="overflow-wrap: break-word;"/>提取码：fk2d</span></span></span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;overflow-wrap: break-word; color: #444444; background-color: #FFFFFF;"><span style="color:#1f2328;overflow-wrap: break-word;"><span style="overflow-wrap: break-word; font-size: 16px;"><br style="overflow-wrap: break-word;"/></span></span></span><span style="color: #444444; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; background-color: #FFFFFF;">蓝奏下载（最小的体验包）:</span><a rel="nofollow noopener" href="https://wwnn.lanzoue.com/iZVcM0wq5lvg" target="_blank" style="overflow-wrap: break-word; color: rgb(51, 102, 153); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">https://wwnn.lanzoue.com/iZVcM0wq5lvg</a><span style="color: #444444; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; background-color: #FFFFFF;">&nbsp;密码:7go1</span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="font-family:Roboto, Arial, sans-serif;overflow-wrap: break-word; color: #444444; background-color: #FFFFFF;"><span style="overflow-wrap: break-word; font-size: 19px;">Whisper ：开源项目（官方）</span></span><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><a rel="nofollow noopener" href="https://github.com/Const-me/Whisper" target="_blank" style="overflow-wrap: break-word; color: rgb(51, 102, 153); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">https://github.com/Const-me/Whisper</a><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: #444444; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; background-color: #FFFFFF;">蓝奏下载 :</span><a rel="nofollow noopener" href="https://wwnn.lanzoue.com/iDT010wq4q6f" target="_blank" style="overflow-wrap: break-word; color: rgb(51, 102, 153); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; white-space: normal; background-color: rgb(255, 255, 255);">https://wwnn.lanzoue.com/iDT010wq4q6f</a><span style="color: #444444; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif; background-color: #FFFFFF;">&nbsp;密码:57ko</span><br/></p><p><br/></p><ul id="dm-fy"><li class="prev-page"><a href="https://ningbocat.com/post/2586.html?page=1">上一页</a></li><li><a href="https://ningbocat.com/post/2586.html">1</a></li><li class="dm-fy-active"><span>2</span></li><li class="all-page"><a href="https://ningbocat.com/post/2586.html?page=all">显示全文</a></li></ul>                                    </div>
+                                <div class="post-footer">
+                                <div class="post-tagsshare">
+                                        <div class="post-tags">
+                        <i class="icon-tags"></i> 
+<a href="https://ningbocat.com/tags-6.html" class="tag-link">电脑软件</a></div>
+<div class="post-share">
+<div class="bdsharebuttonbox">
+<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+<a href="#" class="bds_tieba" data-cmd="tieba" title="分享到百度贴吧"></a>
+<a href="#" class="bds_copy" data-cmd="copy" title="分享到复制网址"></a></div>
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>                 </div>
+                                                        </div>
+                                                <div class="post-copyright">
+                    <div id="author-avatar"><img alt='' src='https://ningbocat.com/zb_users/avatar/0.png' class='avatar avatar-42 photo' height='42' width='42' /></div>
+                    <div id="copy-info">
+                    <span id="copy-arrow"><span></span></span>
+                                                                <p><strong>版权声明：</strong>本文由( <a href="https://ningbocat.com/author-1.html" title="由NINGBOCAT发布" rel="author">NINGBOCAT</a> )原创，转载请保留文章出处！</p>
+                        <p><strong>本文链接：</strong><a class="copy-link-1" href="https://ningbocat.com/post/2586.html" title="https://ningbocat.com/post/2586.html">https://ningbocat.com/post/2586.html</a></p>
+                                                            </div>
+
+            <div class="post-like"><div class="bdlikebutton"></div>
+        <script id="bdlike_shell"></script>
+        <script>
+        var bdShare_config = {
+            "type":"large",
+            "color":"blue",
+            "uid":"0"
+        };
+        document.getElementById("bdlike_shell").src="http://bdimg.share.baidu.com/static/js/like_shell.js?t=" + Math.ceil(new Date()/3600000);
+        </script></div>
+
+                                    </div>
+<div class="post-related">
+<ul>
+
+
+<li><span class="time">01-15</span><span class="title"><i class="icon-doc-text"></i><a href="https://ningbocat.com/post/641.html" title="宁波畅想软件上市: 13年，一个程序猿的逆袭！">宁波畅想软件上市: 13年，一个程序猿的逆袭！</a></span><small  class="pcomm"><i class="icon-comment-1"></i> <a href="https://ningbocat.com/post/641.html#comments" rel="nofollow" title="《宁波畅想软件上市: 13年，一个程序猿的逆袭！》上的评论">0</a></small></li><li><span class="time">12-10</span><span class="title"><i class="icon-doc-text"></i><a href="https://ningbocat.com/post/817.html" title="100M宽带竟跑不满？2015顶级无线路由横评 3/4">100M宽带竟跑不满？2015顶级无线路由横评 3/4</a></span><small  class="pcomm"><i class="icon-comment-1"></i> <a href="https://ningbocat.com/post/817.html#comments" rel="nofollow" title="《100M宽带竟跑不满？2015顶级无线路由横评 3/4》上的评论">0</a></small></li><li><span class="time">04-29</span><span class="title"><i class="icon-doc-text"></i><a href="https://ningbocat.com/post/2047.html" title="Apache 使用 .htaccess 文件配置图片防盗链问题">Apache 使用 .htaccess 文件配置图片防盗链问题</a></span><small  class="pcomm"><i class="icon-comment-1"></i> <a href="https://ningbocat.com/post/2047.html#comments" rel="nofollow" title="《Apache 使用 .htaccess 文件配置图片防盗链问题》上的评论">0</a></small></li><li><span class="time">05-14</span><span class="title"><i class="icon-doc-text"></i><a href="https://ningbocat.com/post/2894.html" title="小心！最新AI看一眼照片就定位你在哪里，精确到经纬度">小心！最新AI看一眼照片就定位你在哪里，精确到经纬度</a></span><small  class="pcomm"><i class="icon-comment-1"></i> <a href="https://ningbocat.com/post/2894.html#comments" rel="nofollow" title="《小心！最新AI看一眼照片就定位你在哪里，精确到经纬度》上的评论">0</a></small></li><li><span class="time">01-16</span><span class="title"><i class="icon-doc-text"></i><a href="https://ningbocat.com/post/43.html" title="(转)关于T61笔记本电脑的实测功率">(转)关于T61笔记本电脑的实测功率</a></span><small  class="pcomm"><i class="icon-comment-1"></i> <a href="https://ningbocat.com/post/43.html#comments" rel="nofollow" title="《(转)关于T61笔记本电脑的实测功率》上的评论">0</a></small></li><li><span class="time">10-28</span><span class="title"><i class="icon-doc-text"></i><a href="https://ningbocat.com/post/669.html" title="最快无线路由器登场 华硕RT-AC87U首测">最快无线路由器登场 华硕RT-AC87U首测</a></span><small  class="pcomm"><i class="icon-comment-1"></i> <a href="https://ningbocat.com/post/669.html#comments" rel="nofollow" title="《最快无线路由器登场 华硕RT-AC87U首测》上的评论">0</a></small></li>            </ul>
+</div>
+<div class="post-navigation">
+                    <div class="post-previous">
+                        <a href="https://ningbocat.com/post/2542.html" rel="prev"><span>上一篇</span>Photoshop安装错误：无法写入注册表值,请检查权限解决办法</a>
+                    </div>
+                    <div class="post-next">
+                                            <a href="https://ningbocat.com/post/2587.html" rel="next"><span>下一篇</span>Buzz-0.8.1 视频语音转成TXT、SRT、VTT工具</a>
+                                        </div>
+                </div>
+                                </div>
+ <div class="comments">
+          <h3 id="comments">还没有评论，快来抢沙发！</h3>
+        <label id="AjaxCommentBegin"></label>
+     
+     <div class="pagination"></div>
+    <label id="AjaxCommentEnd"></label>
+                    <div id="respond" class="respond">
+        <h3>发表评论</h3>
+<form id="frmSumbit" target="_self" method="post" action="https://ningbocat.com/zb_system/cmd.php?act=cmt&amp;postid=2586&amp;key=48f3842196af1732836934abedfd305e" >
+    <input type="hidden" name="inpId" id="inpId" value="2586" />
+    <input type="hidden" name="inpRevID" id="inpRevID" value="0" />
+                <div id="input-box">
+                    <div id="author-input">
+                                <p id="author-info">
+                                <label for="author">昵称</label>
+                                <input type="text" name="inpName" id="inpName" class="replytext" value="访客" size="22" tabindex="1" />
+                                <label for="email">邮箱</label>
+                                <input type="email" name="inpEmail" id="inpEmail" class="replytext" value="" size="22" tabindex="2" />
+                                <span id="Get_Gravatar"></span>
+                                <label for="url">网址</label>
+<input type="text" name="inpHomePage" id="inpHomePage" class="replytext" value="" size="22" tabindex="3" />
+                        </p>
+                    </div>
+                </div>
+                    <div class="comment-box">
+                        <div id="comment-tools"><ul></ul></div>
+                        <textarea name="txaArticle" class="textarea" id="txaArticle" tabindex="4" cols="45" rows="5" placeholder="任何广告行为都会被封杀的哦~" required></textarea>
+                    </div>
+                    <div class="comment-btns">
+                        <input name="sumbit" type="submit" tabindex="6" value="提交" onclick="return VerifyMessage()" class="button" />
+                        <input name="reset" type="reset" id="reset" tabindex="6" value="清除" />
+                    </div>
+            
+<p><input type="text" name="inpVerify" id="inpVerify" class="text" value="" size="28" tabindex="4" /> <label for="inpVerify">验证码(*)</label><img style="width:90px;height:30px;cursor:pointer;" src="https://ningbocat.com/zb_system/script/c_validcode.php?id=cmt" alt="" title="" onclick="javascript:this.src='https://ningbocat.com/zb_system/script/c_validcode.php?id=cmt&amp;tm='+Math.random();"/></p>
+</form>                </div>
+    </div>
+    </div>
+            </div>                <div id="sidebar">
+        
+        
+  <div class="widget" id="widget_default"><h3>网站分类</h3> <ul class='xoxo blogroll'><li><a title="原创:汽车相关" href="https://ningbocat.com/category-14.html">原创:汽车相关</a></li>
+<li><a title="转贴:汽车相关" href="https://ningbocat.com/category-9.html">转贴:汽车相关</a></li>
+<li><a title="原创:电脑相关" href="https://ningbocat.com/category-4.html">原创:电脑相关</a></li>
+<li><a title="转贴:电脑相关" href="https://ningbocat.com/category-12.html">转贴:电脑相关</a></li>
+<li><a title="原创:手机相关" href="https://ningbocat.com/category-17.html">原创:手机相关</a></li>
+<li><a title="转贴:手机相关" href="https://ningbocat.com/category-18.html">转贴:手机相关</a></li>
+<li><a title="原创:多彩自然" href="https://ningbocat.com/category-30.html">原创:多彩自然</a></li>
+<li><a title="转贴:多彩自然" href="https://ningbocat.com/category-31.html">转贴:多彩自然</a></li>
+<li><a title="原创:摄影摄像" href="https://ningbocat.com/category-28.html">原创:摄影摄像</a></li>
+<li><a title="转贴:摄影摄像" href="https://ningbocat.com/category-29.html">转贴:摄影摄像</a></li>
+<li><a title="原创:新奇产品" href="https://ningbocat.com/category-22.html">原创:新奇产品</a></li>
+<li><a title="转贴:新奇产品" href="https://ningbocat.com/category-3.html">转贴:新奇产品</a></li>
+<li><a title="原创:自行车相关" href="https://ningbocat.com/category-21.html">原创:自行车相关</a></li>
+<li><a title="转贴:自行车相关" href="https://ningbocat.com/category-20.html">转贴:自行车相关</a></li>
+<li><a title="提醒注意" href="https://ningbocat.com/category-13.html">提醒注意</a></li>
+<li><a title="时事评论" href="https://ningbocat.com/category-16.html">时事评论</a></li>
+<li><a title="网络购物" href="https://ningbocat.com/category-23.html">网络购物</a></li>
+<li><a title="中国经济" href="https://ningbocat.com/category-15.html">中国经济</a></li>
+<li><a title="网言网语" href="https://ningbocat.com/category-8.html">网言网语</a></li>
+<li><a title="灵感发现" href="https://ningbocat.com/category-1.html">灵感发现</a></li>
+<li><a title="传统文化" href="https://ningbocat.com/category-10.html">传统文化</a></li>
+<li><a title="中医知识" href="https://ningbocat.com/category-24.html">中医知识</a></li>
+<li><a title="中医经验" href="https://ningbocat.com/category-25.html">中医经验</a></li>
+<li><a title="宁波规划" href="https://ningbocat.com/category-26.html">宁波规划</a></li>
+<li><a title="历史" href="https://ningbocat.com/category-11.html">历史</a></li>
+<li><a title="网络文学精华" href="https://ningbocat.com/category-19.html">网络文学精华</a></li>
+<li><a title="转贴:好玩文章" href="https://ningbocat.com/category-2.html">转贴:好玩文章</a></li>
+<li><a title="音乐" href="https://ningbocat.com/category-7.html">音乐</a></li>
+<li><a title="精选MV" href="https://ningbocat.com/category-6.html">精选MV</a></li>
+<li><a title="精选flash" href="https://ningbocat.com/category-5.html">精选flash</a></li>
+<li><a title="资料备用" href="https://ningbocat.com/category-27.html">资料备用</a></li>
+</ul>
+</div>
+     <div class="widget" id="widget_default">
+    <form name="search" method="post" action="/zb_system/cmd.php?act=search" class="searchform">
+                <div>
+
+                    <input type="text" value="" name="q" id="s" />
+                    <input type="submit" id="searchsubmit" value="搜索" />
+                </div>
+    </form>
+    </div>
+  <div class="widget" id="widget_default"><h3>标签列表</h3> <ul class='xoxo blogroll'><li><a title="观致相关" href="https://ningbocat.com/tags-1.html">观致相关<span class="tag-count"> (302)</span></a></li>
+<li><a title="奇瑞相关" href="https://ningbocat.com/tags-2.html">奇瑞相关<span class="tag-count"> (190)</span></a></li>
+<li><a title="汽车经验" href="https://ningbocat.com/tags-3.html">汽车经验<span class="tag-count"> (462)</span></a></li>
+<li><a title="汽车用品" href="https://ningbocat.com/tags-4.html">汽车用品<span class="tag-count"> (193)</span></a></li>
+<li><a title="汽车改装" href="https://ningbocat.com/tags-5.html">汽车改装<span class="tag-count"> (116)</span></a></li>
+<li><a title="电脑软件" href="https://ningbocat.com/tags-6.html">电脑软件<span class="tag-count"> (288)</span></a></li>
+<li><a title="手机软件" href="https://ningbocat.com/tags-7.html">手机软件<span class="tag-count"> (126)</span></a></li>
+<li><a title="电脑经验" href="https://ningbocat.com/tags-8.html">电脑经验<span class="tag-count"> (136)</span></a></li>
+<li><a title="手机经验" href="https://ningbocat.com/tags-9.html">手机经验<span class="tag-count"> (75)</span></a></li>
+<li><a title="宁波风土人情" href="https://ningbocat.com/tags-10.html">宁波风土人情<span class="tag-count"> (682)</span></a></li>
+<li><a title="户外装备" href="https://ningbocat.com/tags-11.html">户外装备<span class="tag-count"> (48)</span></a></li>
+<li><a title="网络安全" href="https://ningbocat.com/tags-13.html">网络安全<span class="tag-count"> (73)</span></a></li>
+<li><a title="百科知识" href="https://ningbocat.com/tags-14.html">百科知识<span class="tag-count"> (319)</span></a></li>
+<li><a title="汽车知识" href="https://ningbocat.com/tags-15.html">汽车知识<span class="tag-count"> (238)</span></a></li>
+<li><a title="财经资料" href="https://ningbocat.com/tags-16.html">财经资料<span class="tag-count"> (203)</span></a></li>
+<li><a title="新奇产品介绍" href="https://ningbocat.com/tags-18.html">新奇产品介绍<span class="tag-count"> (108)</span></a></li>
+<li><a title="交通法规" href="https://ningbocat.com/tags-19.html">交通法规<span class="tag-count"> (95)</span></a></li>
+<li><a title="时事评论" href="https://ningbocat.com/tags-20.html">时事评论<span class="tag-count"> (152)</span></a></li>
+<li><a title="网络文学" href="https://ningbocat.com/tags-21.html">网络文学<span class="tag-count"> (78)</span></a></li>
+<li><a title="历史文化" href="https://ningbocat.com/tags-23.html">历史文化<span class="tag-count"> (403)</span></a></li>
+<li><a title="原创文章" href="https://ningbocat.com/tags-27.html">原创文章<span class="tag-count"> (743)</span></a></li>
+<li><a title="摄影摄像" href="https://ningbocat.com/tags-28.html">摄影摄像<span class="tag-count"> (254)</span></a></li>
+<li><a title="多彩自然" href="https://ningbocat.com/tags-29.html">多彩自然<span class="tag-count"> (411)</span></a></li>
+<li><a title="奇瑞小蚂蚁" href="https://ningbocat.com/tags-30.html">奇瑞小蚂蚁<span class="tag-count"> (48)</span></a></li>
+<li><a title="星纪元ET" href="https://ningbocat.com/tags-32.html">星纪元ET<span class="tag-count"> (62)</span></a></li>
+</ul>
+</div>
+     <div class="widget" id="widget_rcomments"><h3 class="widget_tit">最新留言</h3><div class="rcomments-content">
+    <ul id="rcslider"><li><img src="https://ningbocat.com/zb_users/avatar/0.png" alt="avatar" class="avatar avatar-16 photo" height="16" width="16" /><span>NINGBOCAT: </span><a href="https://ningbocat.com/post/3068.html" title="查看《(原创）杯具啊！一个火花塞引发的问题》上的评论" rel="nofollow">时间长了自然会烧光的...</a></li><li><img src="https://ningbocat.com/zb_users/avatar/0.png" alt="avatar" class="avatar avatar-16 photo" height="16" width="16" /><span>访客: </span><a href="https://ningbocat.com/post/2883.html" title="查看《索尼A1也就是ILCE-1 Ver.2.02 固件升级说明含1.2以来的所有固件》上的评论" rel="nofollow">留言感谢，感谢，谢谢楼主提供...</a></li><li><img src="https://ningbocat.com/zb_users/avatar/0.png" alt="avatar" class="avatar avatar-16 photo" height="16" width="16" /><span>访客: </span><a href="https://ningbocat.com/post/3068.html" title="查看《(原创）杯具啊！一个火花塞引发的问题》上的评论" rel="nofollow">？？？？？重点是段掉的那截怎么弄出来的？？？？...</a></li><li><img src="https://ningbocat.com/zb_users/avatar/0.png" alt="avatar" class="avatar avatar-16 photo" height="16" width="16" /><span>访客: </span><a href="https://ningbocat.com/post/1613.html" title="查看《(原创)隐性水印或是叫盲水印软件介绍》上的评论" rel="nofollow">很好的介绍，另外有没有隐水印的文章？就是那种在网页上正常显示看不到水印，全选页面，会选中图片，这种情...</a></li><li><img src="https://ningbocat.com/zb_users/avatar/0.png" alt="avatar" class="avatar avatar-16 photo" height="16" width="16" /><span>访客: </span><a href="https://ningbocat.com/post/2944.html" title="查看《先解放台湾还是琉球？百年后的大国援兵不再迟到！（上）（下）》上的评论" rel="nofollow">博学啊...</a></li><li><img src="https://ningbocat.com/zb_users/avatar/0.png" alt="avatar" class="avatar avatar-16 photo" height="16" width="16" /><span>访客: </span><a href="https://ningbocat.com/post/2754.html" title="查看《(原创)观致5更换4个胎压监控》上的评论" rel="nofollow">多年前关注的宁波猫博主，今天要换胎压传感器，居然刷到了。联系那个TB店家的确不错。多谢推荐。...</a></li><li><img src="https://ningbocat.com/zb_users/avatar/0.png" alt="avatar" class="avatar avatar-16 photo" height="16" width="16" /><span>访客: </span><a href="https://ningbocat.com/post/1759.html" title="查看《数码相机拍摄照片8bit,10bit,12bit,14bit相关的意义和资料收集》上的评论" rel="nofollow">我记得大多数图像编辑软件都只有8位和16位，当然位数越高越好，8位通道只有256个灰阶，稍微调一调色...</a></li><li><img src="https://ningbocat.com/zb_users/avatar/0.png" alt="avatar" class="avatar avatar-16 photo" height="16" width="16" /><span>访客: </span><a href="https://ningbocat.com/post/1933.html" title="查看《投屏镜像工具 AnLink(安联)》上的评论" rel="nofollow">这玩意啥都好，就是使用wifi模式延迟大得吓人，我这里延迟是超过了三秒，博主，能问问你是怎么解决的吗...</a></li><li><img src="https://ningbocat.com/zb_users/avatar/0.png" alt="avatar" class="avatar avatar-16 photo" height="16" width="16" /><span>访客: </span><a href="https://ningbocat.com/post/1992.html" title="查看《“鸟类友好型”城市绿地到底长啥样？》上的评论" rel="nofollow">请问宁波有观鸟爱好者的组织吗？...</a></li><li><img src="https://ningbocat.com/zb_users/avatar/0.png" alt="avatar" class="avatar avatar-16 photo" height="16" width="16" /><span>访客: </span><a href="https://ningbocat.com/post/1906.html" title="查看《(原创)手相连接:手机app:Imaging Edge Mobile 连接索尼微单的经验分享》上的评论" rel="nofollow">最近闲来无事也在研究这个软件，发现规律是只要第一次连接上的gps信息就可以保存一分钟。根据其他老哥...</a></li></ul>
+</div>
+        </div>
+  <div class="widget" id="widget_default"><h3>友情链接</h3> <ul class='xoxo blogroll'><li><a href="https://www.nbyiyi.com/bk/" target="_blank" title="王晨亦的小屋">王晨亦的小屋</a></li>
+
+<li><a href="https://yblgzbbl.cn/" target="_blank" title="一般路过棕背伯劳">一般路过棕背伯劳的主页</a></li>
+
+</ul>
+</div>
+     <div class="widget" id="widget_statistics">
+<span class="cp-hello">授权进入后花园！</span><br/><span class="cp-login"><a href="https://ningbocat.com/zb_system/cmd.php?act=login">登录后台</a></span>&nbsp;&nbsp;<span class="cp-vrs"><a href="https://ningbocat.com/zb_system/cmd.php?act=misc&amp;type=vrs">查看权限</a></span>    </div>
+  <div class="widget" id="widget_default"><h3>文章归档</h3> <ul class='xoxo blogroll'><li><a title="2025年5月" href="https://ningbocat.com/date-2025-5.html">2025年5月 (9)</a></li>
+<li><a title="2025年4月" href="https://ningbocat.com/date-2025-4.html">2025年4月 (9)</a></li>
+<li><a title="2025年3月" href="https://ningbocat.com/date-2025-3.html">2025年3月 (6)</a></li>
+<li><a title="2025年2月" href="https://ningbocat.com/date-2025-2.html">2025年2月 (9)</a></li>
+<li><a title="2025年1月" href="https://ningbocat.com/date-2025-1.html">2025年1月 (26)</a></li>
+<li><a title="2024年12月" href="https://ningbocat.com/date-2024-12.html">2024年12月 (17)</a></li>
+<li><a title="2024年11月" href="https://ningbocat.com/date-2024-11.html">2024年11月 (13)</a></li>
+<li><a title="2024年10月" href="https://ningbocat.com/date-2024-10.html">2024年10月 (16)</a></li>
+<li><a title="2024年9月" href="https://ningbocat.com/date-2024-9.html">2024年9月 (24)</a></li>
+<li><a title="2024年8月" href="https://ningbocat.com/date-2024-8.html">2024年8月 (38)</a></li>
+<li><a title="2024年7月" href="https://ningbocat.com/date-2024-7.html">2024年7月 (33)</a></li>
+<li><a title="2024年6月" href="https://ningbocat.com/date-2024-6.html">2024年6月 (27)</a></li>
+<li><a title="2024年5月" href="https://ningbocat.com/date-2024-5.html">2024年5月 (31)</a></li>
+<li><a title="2024年4月" href="https://ningbocat.com/date-2024-4.html">2024年4月 (40)</a></li>
+<li><a title="2024年3月" href="https://ningbocat.com/date-2024-3.html">2024年3月 (35)</a></li>
+<li><a title="2024年2月" href="https://ningbocat.com/date-2024-2.html">2024年2月 (32)</a></li>
+<li><a title="2024年1月" href="https://ningbocat.com/date-2024-1.html">2024年1月 (34)</a></li>
+<li><a title="2023年12月" href="https://ningbocat.com/date-2023-12.html">2023年12月 (17)</a></li>
+<li><a title="2023年11月" href="https://ningbocat.com/date-2023-11.html">2023年11月 (12)</a></li>
+<li><a title="2023年10月" href="https://ningbocat.com/date-2023-10.html">2023年10月 (23)</a></li>
+<li><a title="2023年9月" href="https://ningbocat.com/date-2023-9.html">2023年9月 (18)</a></li>
+<li><a title="2023年8月" href="https://ningbocat.com/date-2023-8.html">2023年8月 (31)</a></li>
+<li><a title="2023年7月" href="https://ningbocat.com/date-2023-7.html">2023年7月 (34)</a></li>
+<li><a title="2023年6月" href="https://ningbocat.com/date-2023-6.html">2023年6月 (29)</a></li>
+<li><a title="2023年5月" href="https://ningbocat.com/date-2023-5.html">2023年5月 (25)</a></li>
+<li><a title="2023年4月" href="https://ningbocat.com/date-2023-4.html">2023年4月 (14)</a></li>
+<li><a title="2023年3月" href="https://ningbocat.com/date-2023-3.html">2023年3月 (16)</a></li>
+<li><a title="2023年2月" href="https://ningbocat.com/date-2023-2.html">2023年2月 (17)</a></li>
+<li><a title="2023年1月" href="https://ningbocat.com/date-2023-1.html">2023年1月 (29)</a></li>
+<li><a title="2022年12月" href="https://ningbocat.com/date-2022-12.html">2022年12月 (18)</a></li>
+<li><a title="2022年11月" href="https://ningbocat.com/date-2022-11.html">2022年11月 (37)</a></li>
+<li><a title="2022年10月" href="https://ningbocat.com/date-2022-10.html">2022年10月 (239)</a></li>
+<li><a title="2022年9月" href="https://ningbocat.com/date-2022-9.html">2022年9月 (23)</a></li>
+<li><a title="2022年8月" href="https://ningbocat.com/date-2022-8.html">2022年8月 (41)</a></li>
+<li><a title="2022年7月" href="https://ningbocat.com/date-2022-7.html">2022年7月 (12)</a></li>
+<li><a title="2022年6月" href="https://ningbocat.com/date-2022-6.html">2022年6月 (22)</a></li>
+<li><a title="2022年5月" href="https://ningbocat.com/date-2022-5.html">2022年5月 (24)</a></li>
+<li><a title="2022年4月" href="https://ningbocat.com/date-2022-4.html">2022年4月 (24)</a></li>
+<li><a title="2022年3月" href="https://ningbocat.com/date-2022-3.html">2022年3月 (14)</a></li>
+<li><a title="2022年2月" href="https://ningbocat.com/date-2022-2.html">2022年2月 (17)</a></li>
+<li><a title="2022年1月" href="https://ningbocat.com/date-2022-1.html">2022年1月 (18)</a></li>
+<li><a title="2021年12月" href="https://ningbocat.com/date-2021-12.html">2021年12月 (29)</a></li>
+<li><a title="2021年11月" href="https://ningbocat.com/date-2021-11.html">2021年11月 (10)</a></li>
+<li><a title="2021年10月" href="https://ningbocat.com/date-2021-10.html">2021年10月 (16)</a></li>
+<li><a title="2021年9月" href="https://ningbocat.com/date-2021-9.html">2021年9月 (14)</a></li>
+<li><a title="2021年8月" href="https://ningbocat.com/date-2021-8.html">2021年8月 (10)</a></li>
+<li><a title="2021年7月" href="https://ningbocat.com/date-2021-7.html">2021年7月 (17)</a></li>
+<li><a title="2021年6月" href="https://ningbocat.com/date-2021-6.html">2021年6月 (16)</a></li>
+<li><a title="2021年5月" href="https://ningbocat.com/date-2021-5.html">2021年5月 (10)</a></li>
+<li><a title="2021年4月" href="https://ningbocat.com/date-2021-4.html">2021年4月 (8)</a></li>
+<li><a title="2021年3月" href="https://ningbocat.com/date-2021-3.html">2021年3月 (6)</a></li>
+<li><a title="2021年2月" href="https://ningbocat.com/date-2021-2.html">2021年2月 (5)</a></li>
+<li><a title="2021年1月" href="https://ningbocat.com/date-2021-1.html">2021年1月 (8)</a></li>
+<li><a title="2020年12月" href="https://ningbocat.com/date-2020-12.html">2020年12月 (4)</a></li>
+<li><a title="2020年11月" href="https://ningbocat.com/date-2020-11.html">2020年11月 (7)</a></li>
+<li><a title="2020年10月" href="https://ningbocat.com/date-2020-10.html">2020年10月 (9)</a></li>
+<li><a title="2020年9月" href="https://ningbocat.com/date-2020-9.html">2020年9月 (10)</a></li>
+<li><a title="2020年8月" href="https://ningbocat.com/date-2020-8.html">2020年8月 (10)</a></li>
+<li><a title="2020年7月" href="https://ningbocat.com/date-2020-7.html">2020年7月 (21)</a></li>
+<li><a title="2020年6月" href="https://ningbocat.com/date-2020-6.html">2020年6月 (4)</a></li>
+<li><a title="2020年5月" href="https://ningbocat.com/date-2020-5.html">2020年5月 (5)</a></li>
+<li><a title="2020年4月" href="https://ningbocat.com/date-2020-4.html">2020年4月 (14)</a></li>
+<li><a title="2020年3月" href="https://ningbocat.com/date-2020-3.html">2020年3月 (15)</a></li>
+<li><a title="2020年2月" href="https://ningbocat.com/date-2020-2.html">2020年2月 (17)</a></li>
+<li><a title="2020年1月" href="https://ningbocat.com/date-2020-1.html">2020年1月 (11)</a></li>
+<li><a title="2019年12月" href="https://ningbocat.com/date-2019-12.html">2019年12月 (7)</a></li>
+<li><a title="2019年11月" href="https://ningbocat.com/date-2019-11.html">2019年11月 (16)</a></li>
+<li><a title="2019年10月" href="https://ningbocat.com/date-2019-10.html">2019年10月 (25)</a></li>
+<li><a title="2019年9月" href="https://ningbocat.com/date-2019-9.html">2019年9月 (17)</a></li>
+<li><a title="2019年8月" href="https://ningbocat.com/date-2019-8.html">2019年8月 (22)</a></li>
+<li><a title="2019年7月" href="https://ningbocat.com/date-2019-7.html">2019年7月 (5)</a></li>
+<li><a title="2019年6月" href="https://ningbocat.com/date-2019-6.html">2019年6月 (20)</a></li>
+<li><a title="2019年5月" href="https://ningbocat.com/date-2019-5.html">2019年5月 (21)</a></li>
+<li><a title="2019年4月" href="https://ningbocat.com/date-2019-4.html">2019年4月 (13)</a></li>
+<li><a title="2019年3月" href="https://ningbocat.com/date-2019-3.html">2019年3月 (17)</a></li>
+<li><a title="2019年2月" href="https://ningbocat.com/date-2019-2.html">2019年2月 (13)</a></li>
+<li><a title="2019年1月" href="https://ningbocat.com/date-2019-1.html">2019年1月 (11)</a></li>
+<li><a title="2018年12月" href="https://ningbocat.com/date-2018-12.html">2018年12月 (11)</a></li>
+<li><a title="2018年11月" href="https://ningbocat.com/date-2018-11.html">2018年11月 (19)</a></li>
+<li><a title="2018年10月" href="https://ningbocat.com/date-2018-10.html">2018年10月 (24)</a></li>
+<li><a title="2018年9月" href="https://ningbocat.com/date-2018-9.html">2018年9月 (32)</a></li>
+<li><a title="2018年8月" href="https://ningbocat.com/date-2018-8.html">2018年8月 (14)</a></li>
+<li><a title="2018年7月" href="https://ningbocat.com/date-2018-7.html">2018年7月 (39)</a></li>
+<li><a title="2018年6月" href="https://ningbocat.com/date-2018-6.html">2018年6月 (29)</a></li>
+<li><a title="2018年5月" href="https://ningbocat.com/date-2018-5.html">2018年5月 (16)</a></li>
+<li><a title="2018年4月" href="https://ningbocat.com/date-2018-4.html">2018年4月 (21)</a></li>
+<li><a title="2018年3月" href="https://ningbocat.com/date-2018-3.html">2018年3月 (43)</a></li>
+<li><a title="2018年2月" href="https://ningbocat.com/date-2018-2.html">2018年2月 (6)</a></li>
+<li><a title="2018年1月" href="https://ningbocat.com/date-2018-1.html">2018年1月 (23)</a></li>
+<li><a title="2017年12月" href="https://ningbocat.com/date-2017-12.html">2017年12月 (27)</a></li>
+<li><a title="2017年11月" href="https://ningbocat.com/date-2017-11.html">2017年11月 (27)</a></li>
+<li><a title="2017年10月" href="https://ningbocat.com/date-2017-10.html">2017年10月 (34)</a></li>
+<li><a title="2017年9月" href="https://ningbocat.com/date-2017-9.html">2017年9月 (27)</a></li>
+<li><a title="2017年8月" href="https://ningbocat.com/date-2017-8.html">2017年8月 (18)</a></li>
+<li><a title="2017年7月" href="https://ningbocat.com/date-2017-7.html">2017年7月 (17)</a></li>
+<li><a title="2017年6月" href="https://ningbocat.com/date-2017-6.html">2017年6月 (26)</a></li>
+<li><a title="2017年5月" href="https://ningbocat.com/date-2017-5.html">2017年5月 (32)</a></li>
+<li><a title="2017年4月" href="https://ningbocat.com/date-2017-4.html">2017年4月 (74)</a></li>
+<li><a title="2017年3月" href="https://ningbocat.com/date-2017-3.html">2017年3月 (29)</a></li>
+<li><a title="2017年2月" href="https://ningbocat.com/date-2017-2.html">2017年2月 (24)</a></li>
+<li><a title="2017年1月" href="https://ningbocat.com/date-2017-1.html">2017年1月 (15)</a></li>
+<li><a title="2016年12月" href="https://ningbocat.com/date-2016-12.html">2016年12月 (27)</a></li>
+<li><a title="2016年11月" href="https://ningbocat.com/date-2016-11.html">2016年11月 (7)</a></li>
+<li><a title="2016年10月" href="https://ningbocat.com/date-2016-10.html">2016年10月 (25)</a></li>
+<li><a title="2016年9月" href="https://ningbocat.com/date-2016-9.html">2016年9月 (26)</a></li>
+<li><a title="2016年8月" href="https://ningbocat.com/date-2016-8.html">2016年8月 (17)</a></li>
+<li><a title="2016年7月" href="https://ningbocat.com/date-2016-7.html">2016年7月 (28)</a></li>
+<li><a title="2016年5月" href="https://ningbocat.com/date-2016-5.html">2016年5月 (2)</a></li>
+<li><a title="2016年4月" href="https://ningbocat.com/date-2016-4.html">2016年4月 (4)</a></li>
+<li><a title="2016年3月" href="https://ningbocat.com/date-2016-3.html">2016年3月 (3)</a></li>
+<li><a title="2016年1月" href="https://ningbocat.com/date-2016-1.html">2016年1月 (7)</a></li>
+<li><a title="2015年11月" href="https://ningbocat.com/date-2015-11.html">2015年11月 (5)</a></li>
+<li><a title="2015年10月" href="https://ningbocat.com/date-2015-10.html">2015年10月 (8)</a></li>
+<li><a title="2015年9月" href="https://ningbocat.com/date-2015-9.html">2015年9月 (2)</a></li>
+<li><a title="2015年7月" href="https://ningbocat.com/date-2015-7.html">2015年7月 (3)</a></li>
+<li><a title="2015年6月" href="https://ningbocat.com/date-2015-6.html">2015年6月 (1)</a></li>
+<li><a title="2015年5月" href="https://ningbocat.com/date-2015-5.html">2015年5月 (2)</a></li>
+<li><a title="2015年4月" href="https://ningbocat.com/date-2015-4.html">2015年4月 (2)</a></li>
+<li><a title="2015年3月" href="https://ningbocat.com/date-2015-3.html">2015年3月 (3)</a></li>
+<li><a title="2015年2月" href="https://ningbocat.com/date-2015-2.html">2015年2月 (6)</a></li>
+<li><a title="2015年1月" href="https://ningbocat.com/date-2015-1.html">2015年1月 (7)</a></li>
+<li><a title="2014年12月" href="https://ningbocat.com/date-2014-12.html">2014年12月 (3)</a></li>
+<li><a title="2014年11月" href="https://ningbocat.com/date-2014-11.html">2014年11月 (13)</a></li>
+<li><a title="2014年10月" href="https://ningbocat.com/date-2014-10.html">2014年10月 (1)</a></li>
+<li><a title="2014年9月" href="https://ningbocat.com/date-2014-9.html">2014年9月 (53)</a></li>
+<li><a title="2014年8月" href="https://ningbocat.com/date-2014-8.html">2014年8月 (2)</a></li>
+<li><a title="2014年7月" href="https://ningbocat.com/date-2014-7.html">2014年7月 (5)</a></li>
+<li><a title="2014年6月" href="https://ningbocat.com/date-2014-6.html">2014年6月 (4)</a></li>
+<li><a title="2014年5月" href="https://ningbocat.com/date-2014-5.html">2014年5月 (4)</a></li>
+<li><a title="2014年4月" href="https://ningbocat.com/date-2014-4.html">2014年4月 (3)</a></li>
+<li><a title="2014年3月" href="https://ningbocat.com/date-2014-3.html">2014年3月 (10)</a></li>
+<li><a title="2014年2月" href="https://ningbocat.com/date-2014-2.html">2014年2月 (3)</a></li>
+<li><a title="2014年1月" href="https://ningbocat.com/date-2014-1.html">2014年1月 (7)</a></li>
+<li><a title="2013年12月" href="https://ningbocat.com/date-2013-12.html">2013年12月 (3)</a></li>
+<li><a title="2013年11月" href="https://ningbocat.com/date-2013-11.html">2013年11月 (11)</a></li>
+<li><a title="2013年10月" href="https://ningbocat.com/date-2013-10.html">2013年10月 (17)</a></li>
+<li><a title="2013年9月" href="https://ningbocat.com/date-2013-9.html">2013年9月 (5)</a></li>
+<li><a title="2013年8月" href="https://ningbocat.com/date-2013-8.html">2013年8月 (5)</a></li>
+<li><a title="2013年7月" href="https://ningbocat.com/date-2013-7.html">2013年7月 (5)</a></li>
+<li><a title="2013年6月" href="https://ningbocat.com/date-2013-6.html">2013年6月 (6)</a></li>
+<li><a title="2013年5月" href="https://ningbocat.com/date-2013-5.html">2013年5月 (3)</a></li>
+<li><a title="2013年4月" href="https://ningbocat.com/date-2013-4.html">2013年4月 (8)</a></li>
+<li><a title="2013年3月" href="https://ningbocat.com/date-2013-3.html">2013年3月 (7)</a></li>
+<li><a title="2013年2月" href="https://ningbocat.com/date-2013-2.html">2013年2月 (4)</a></li>
+<li><a title="2013年1月" href="https://ningbocat.com/date-2013-1.html">2013年1月 (5)</a></li>
+<li><a title="2012年12月" href="https://ningbocat.com/date-2012-12.html">2012年12月 (6)</a></li>
+<li><a title="2012年11月" href="https://ningbocat.com/date-2012-11.html">2012年11月 (9)</a></li>
+<li><a title="2012年10月" href="https://ningbocat.com/date-2012-10.html">2012年10月 (1)</a></li>
+<li><a title="2012年9月" href="https://ningbocat.com/date-2012-9.html">2012年9月 (27)</a></li>
+<li><a title="2012年8月" href="https://ningbocat.com/date-2012-8.html">2012年8月 (7)</a></li>
+<li><a title="2012年7月" href="https://ningbocat.com/date-2012-7.html">2012年7月 (4)</a></li>
+<li><a title="2012年6月" href="https://ningbocat.com/date-2012-6.html">2012年6月 (6)</a></li>
+<li><a title="2012年5月" href="https://ningbocat.com/date-2012-5.html">2012年5月 (11)</a></li>
+<li><a title="2012年4月" href="https://ningbocat.com/date-2012-4.html">2012年4月 (1)</a></li>
+<li><a title="2012年3月" href="https://ningbocat.com/date-2012-3.html">2012年3月 (17)</a></li>
+<li><a title="2012年2月" href="https://ningbocat.com/date-2012-2.html">2012年2月 (13)</a></li>
+<li><a title="2012年1月" href="https://ningbocat.com/date-2012-1.html">2012年1月 (2)</a></li>
+<li><a title="2011年12月" href="https://ningbocat.com/date-2011-12.html">2011年12月 (13)</a></li>
+<li><a title="2011年11月" href="https://ningbocat.com/date-2011-11.html">2011年11月 (5)</a></li>
+<li><a title="2011年10月" href="https://ningbocat.com/date-2011-10.html">2011年10月 (4)</a></li>
+<li><a title="2011年9月" href="https://ningbocat.com/date-2011-9.html">2011年9月 (2)</a></li>
+<li><a title="2011年8月" href="https://ningbocat.com/date-2011-8.html">2011年8月 (2)</a></li>
+<li><a title="2011年7月" href="https://ningbocat.com/date-2011-7.html">2011年7月 (5)</a></li>
+<li><a title="2011年6月" href="https://ningbocat.com/date-2011-6.html">2011年6月 (4)</a></li>
+<li><a title="2011年5月" href="https://ningbocat.com/date-2011-5.html">2011年5月 (55)</a></li>
+<li><a title="2010年11月" href="https://ningbocat.com/date-2010-11.html">2010年11月 (6)</a></li>
+<li><a title="2010年10月" href="https://ningbocat.com/date-2010-10.html">2010年10月 (11)</a></li>
+<li><a title="2010年9月" href="https://ningbocat.com/date-2010-9.html">2010年9月 (8)</a></li>
+<li><a title="2010年8月" href="https://ningbocat.com/date-2010-8.html">2010年8月 (40)</a></li>
+<li><a title="2010年7月" href="https://ningbocat.com/date-2010-7.html">2010年7月 (13)</a></li>
+<li><a title="2010年6月" href="https://ningbocat.com/date-2010-6.html">2010年6月 (32)</a></li>
+<li><a title="2010年5月" href="https://ningbocat.com/date-2010-5.html">2010年5月 (21)</a></li>
+<li><a title="2010年4月" href="https://ningbocat.com/date-2010-4.html">2010年4月 (14)</a></li>
+<li><a title="2010年3月" href="https://ningbocat.com/date-2010-3.html">2010年3月 (15)</a></li>
+<li><a title="2010年2月" href="https://ningbocat.com/date-2010-2.html">2010年2月 (9)</a></li>
+<li><a title="2010年1月" href="https://ningbocat.com/date-2010-1.html">2010年1月 (19)</a></li>
+<li><a title="2009年12月" href="https://ningbocat.com/date-2009-12.html">2009年12月 (14)</a></li>
+<li><a title="2009年11月" href="https://ningbocat.com/date-2009-11.html">2009年11月 (11)</a></li>
+</ul>
+</div>
+     </div>
+</div>
+<div id="footer" class="container">
+    <div class="copyright"><span style="font-size: 18px;">站内所有文章搜索</span></p><p></p><form name="search" method="post" action="https://ningbocat.com/zb_system/cmd.php?act=search">    <input type="text" name="q" style="height:20px;width:200px;"/><input type="submit" value="搜索"/>*****Copyright www.ningbocat.com All Rights Reserved.Powered By Z-Blog PHP**</div>
+        <div class="themeauthor">Themes by <a href="http://www.ytecn.com" title="唐朝" target="_blank"><strong>唐朝</strong></a>
+        </div>
+        <div style="display:none">
+         </div>
+</div>
+<div id="circle"></div>
+<div id="circletext">加载中</div>
+<div id="circle1"></div>
+<div id="backtop"></div>
+</div>
+</div>
+<script type='text/javascript' src='https://ningbocat.com/zb_users/theme/Tcbymt/script/comments.min.js?ver=2.0'></script>
+<script type='text/javascript' src='https://ningbocat.com/zb_users/theme/Tcbymt/script/global.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='https://ningbocat.com/zb_users/theme/Tcbymt/script/lightbox.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='https://ningbocat.com/zb_users/theme/Tcbymt/script/highlight.pack.js?ver=2.1.1'></script>
+<script type='text/javascript' src='https://ningbocat.com/zb_users/theme/Tcbymt/script/superslide.min.js?ver=2.1.1'></script>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $("#slide_top").slide({mainCell:".bd ul"});
+    })
+</script>
+</body>
+</html>
