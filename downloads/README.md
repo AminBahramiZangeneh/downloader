@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [100MB](./100MB)
+- [ggml-large-v3](./ggml-large-v3)
 
 ---
 
